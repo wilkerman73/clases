@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seccion de Contenidos III </title>
+</head>
+<body>
+    <header>
+        <h1> NOTICIAS NACIONALES </h1>
+    </header>
+    <main>
+        <section>
+            <h2> Noticias del dia</h2>
+            <article> 
+                <h2>  Noticia 1</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non tempora nobis quo maiores sequi consectetur, at perspiciatis nulla adipisci, corrupti perferendis cum aliquam culpa, distinctio quidem minus odit velit maxime.</p>
+               </article>
+
+            <article>
+                <h3>  Noticia 2 </h3>
+                <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis soluta eligendi necessitatibus facere quidem provident recusandae placeat. Vero, excepturi ducimus eaque voluptatibus ut numquam! Quidem maxime saepe repellat quia quo?</P>
+            </article>
+            <article> 
+                <h3>Noticia 3</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate voluptas repudiandae eius nostrum cum. Debitis, iure voluptatem? Corrupti quis unde provident dicta. Itaque ipsa, alias iusto pariatur nesciunt id ad!</p>
+            </article>
+        </section>
+        <footer> 4-11-2020</footer>
+    </main>
+    
+</body>
+</html>
